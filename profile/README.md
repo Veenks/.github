@@ -2,7 +2,7 @@
 
 # Veenks
 
-**IT consulting and software quality engineering for growing tech teams**
+**Software consulting for growing tech teams**
 
 [Website](#) · [LinkedIn](#) · [Contact](#)
 
@@ -12,30 +12,27 @@
 
 ## What we do
 
-Veenks helps software teams ship reliable, high-quality products. We combine hands-on QA expertise with a broader IT consulting mindset — we don't just find bugs, we help you build the processes that prevent them.
+Veenks is a software consulting studio. We help teams build, ship, and maintain reliable software — from strategy and process to hands-on technical work.
 
-- **Manual QA** — deep exploratory testing, test plans, structured bug reporting
-- **Test automation** — Selenium / Playwright frameworks integrated with CI/CD
-- **API testing** — contract validation, negative testing, end-to-end request flows
-- **Performance testing** — load and stress testing with JMeter / k6
-- **IT consulting** — process optimization, quality strategy, tooling advice
+- **Software consulting** — technical strategy, architecture guidance, process optimization
+- **Quality engineering** — manual QA, test automation, API and performance testing
+- **DevOps & CI/CD** — pipeline setup, tooling, delivery process improvements
+- **Development support** — technical advisory and hands-on engineering help for product teams
 
 ## Portfolio
 
-This organization hosts demo projects that showcase how we work. Each repo is self-contained, documented, and runnable.
+We're building out a set of demo projects to show how we work in practice. This section will grow as repos go live.
 
 | Repo | What it shows |
 |---|---|
-| [`veenks-automation-demo`](#) | End-to-end test automation framework with Playwright, Page Object Model, and CI pipeline |
-| [`veenks-api-testing-demo`](#) | API test suite with schema validation, negative cases, and request chaining |
-| [`veenks-performance-demo`](#) | Load testing scripts and performance reports with k6 |
-| [`veenks-qa-docs-sample`](#) | Test plan, test case design, and bug report samples |
-
-*(Links will be updated as each repo goes live.)*
+| *Coming soon* | Test automation framework with CI integration |
+| *Coming soon* | API testing suite |
+| *Coming soon* | Performance testing and reporting |
+| *Coming soon* | Consulting case study / sample deliverable |
 
 ## Why Veenks
 
-We're a small, hands-on team — no bloated processes, no account managers between you and the people doing the work. You talk directly to the engineers testing your product.
+We're a small, hands-on team — no bloated processes, no account managers between you and the people doing the work. You talk directly to the people building and testing your product.
 
 ## Get in touch
 
