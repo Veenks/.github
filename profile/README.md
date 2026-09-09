@@ -4,7 +4,7 @@
 
 **Software consulting for growing tech teams**
 
-[Website](#) · [LinkedIn](#https://www.linkedin.com/company/veenksorg) · [Contact](#)
+[Website](#) · [LinkedIn](https://www.linkedin.com/company/veenksorg) · [Contact](#)
 
 </div>
 
