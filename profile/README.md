@@ -4,7 +4,7 @@
 
 **Software consulting for growing tech teams**
 
-[Website](#) · [LinkedIn](https://www.linkedin.com/company/veenksorg) · [Contact](#)
+[Website](#) · [LinkedIn](https://www.linkedin.com/company/veenksorg)
 
 </div>
 
@@ -36,4 +36,4 @@ We're a small, hands-on team — no bloated processes, no account managers betwe
 
 ## Get in touch
 
-Interested in working together? Reach out through [LinkedIn](#) or [email us](#).
+Interested in working together? Reach out through [LinkedIn](#) or [email us](mailto:torresjavier83@gmail.com).
