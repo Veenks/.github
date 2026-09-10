@@ -4,7 +4,9 @@
 
 **Software consulting for growing tech teams**
 
-[Website](#) · [LinkedIn](https://www.linkedin.com/company/veenksorg)
+*Forge your ideas, sail them forward*
+
+[LinkedIn](#) · [Contact](mailto:torresjavier83@gmail.com)
 
 </div>
 
@@ -15,20 +17,17 @@
 Veenks is a software consulting studio. We help teams build, ship, and maintain reliable software — from strategy and process to hands-on technical work.
 
 - **Software consulting** — technical strategy, architecture guidance, process optimization
-- **Quality engineering** — manual QA, test automation, API and performance testing
+- **Quality engineering** — manual QA, test automation, API and performance testing, across web, mobile, desktop, database, and AI-driven applications
 - **DevOps & CI/CD** — pipeline setup, tooling, delivery process improvements
 - **Development support** — technical advisory and hands-on engineering help for product teams
 
 ## Portfolio
 
-We're building out a set of demo projects to show how we work in practice. This section will grow as repos go live.
-
 | Repo | What it shows |
 |---|---|
-| *Coming soon* | Test automation framework with CI integration |
-| *Coming soon* | API testing suite |
-| *Coming soon* | Performance testing and reporting |
-| *Coming soon* | Consulting case study / sample deliverable |
+| [`demo-qa-toolkit`](https://github.com/veenks/demo-qa-toolkit) | End-to-end QA toolkit organized by target (web, mobile, desktop, database, AI) and strategy (manual, automation, API, performance, and more) |
+
+More demo repos will be added here as they go live. Landing page and internal docs live in private repos.
 
 ## Why Veenks
 
